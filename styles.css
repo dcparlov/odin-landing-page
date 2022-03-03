@@ -22,3 +22,43 @@
     font-family: sans-serif;
     font-weight: bold;
 }
+
+.intro-container {
+    background-color: #1F2937;
+    display: flex;
+    padding: 50px 50px;
+}
+
+.intro-left {
+    flex: 1;
+}
+
+.intro-right {
+    flex: 1;
+    background-color: grey;
+    text-align: center;
+    justify-content: center;
+    color: white;
+}
+
+
+.intro-left h1 {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+.intro-left p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.sign-up-button {
+    padding: 5px 20px;
+    background-color: #3882f6;
+    border-radius: 4px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    border: none;
+}
