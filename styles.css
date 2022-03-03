@@ -1,0 +1,24 @@
+
+.top-nav {
+    background-color: #1F2937;
+    overflow: hidden;
+    list-style-type: none;
+}
+
+.top-nav a {
+    float: right;
+    color: #E5E7EB;
+    text-decoration: none;
+    font-size: 18px;
+    text-align: center;
+    padding: 14px 16px;
+    display: block;
+}
+
+#header-logo {
+    float: left;
+    font-size: 24px;
+    color: #F9FAF8;
+    font-family: sans-serif;
+    font-weight: bold;
+}
